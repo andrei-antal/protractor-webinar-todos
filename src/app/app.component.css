@@ -1,0 +1,19 @@
+.todos {
+  padding: 24px;
+}
+
+.form-control {
+  width: 300px;
+}
+
+.todo-text {
+  padding: 16px 0;
+}
+
+.todos .checked {
+  text-decoration: line-through;
+}
+
+.delete-icon {
+  cursor: pointer;
+}
